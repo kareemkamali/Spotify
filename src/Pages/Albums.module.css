@@ -1,0 +1,14 @@
+.card{
+  gap: 10px;
+  justify-content: center;
+}
+.box{
+    margin-top: 20px;
+}
+.content{
+    padding: 0 10px !important;
+}
+.cardAction{
+  padding: 0;
+justify-content: center;
+}

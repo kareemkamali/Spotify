@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## setUp to Start App
+
+pull application and run on localhost:3000 using
+### npm start
+
+## second steup
+ enter the correct email in this case(rabih@itxi.net and h.ghandour@itxi.net)
+## third steup
+click on login button to accept on my spotify clone the client id is private for this reason i put into .env file
+## finaly
+ you can search and show artists and albums for each artist
+
+ ## Hint
+ I am using diffrent material for show you my informations for example in some place iam using css and on another place i use the material ui library to show you.
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
