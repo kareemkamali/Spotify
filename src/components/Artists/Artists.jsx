@@ -16,7 +16,7 @@ const {token}=useSelector(state=>state.token)
     const SearchHandler=(e)=>{
     
 setSearch(e.target.value);
-console.log(search)
+
     }
 
     useEffect(()=>{
@@ -32,7 +32,7 @@ console.log(search)
                 type: "artist"
             }
         })
-        console.log(data.artists.items,'asd');
+     
         
   setArtists(data.artists.items)
     }

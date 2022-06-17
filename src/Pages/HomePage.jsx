@@ -14,7 +14,7 @@ const {token}=useSelector(state=>state.token);
 const hash=getTokenFromResponse();
 window.location.hash="";
 const _getToken=hash.access_token;
-console.log(_getToken)
+
 if(_getToken)
 dispatch(addToken({token:_getToken}))
   },[]);

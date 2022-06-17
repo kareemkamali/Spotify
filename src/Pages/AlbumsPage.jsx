@@ -23,7 +23,7 @@ const AlbumsPage = () => {
               },
            
           })
-          console.log(data.items,'asd');
+        
         
           
           setAlbums(data.items)
